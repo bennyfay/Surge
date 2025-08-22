@@ -1,0 +1,91 @@
+# 网易云音乐分流规则 - 回国场景优化
+# 网易云音乐主域名
+DOMAIN-SUFFIX,music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,music.126.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,music.163.cn,🎵 NeteaseMusic
+
+# 网易云音乐API
+DOMAIN-SUFFIX,api.music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,api.music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,api.music.126.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,api.music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,api.music.163.cn,🎵 NeteaseMusic
+
+# 网易云音乐CDN和媒体
+DOMAIN-SUFFIX,music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,music.163.cn,🎵 NeteaseMusic
+DOMAIN-SUFFIX,music.126.com,🎵 NeteaseMusic
+
+# 网易云音乐播放器
+DOMAIN-SUFFIX,player.music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,player.music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,player.music.126.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,player.music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,player.music.163.cn,🎵 NeteaseMusic
+
+# 网易云音乐搜索
+DOMAIN-SUFFIX,search.music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,search.music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,search.music.126.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,search.music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,search.music.163.cn,🎵 NeteaseMusic
+
+# 网易云音乐用户系统
+DOMAIN-SUFFIX,user.music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,user.music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,user.music.126.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,user.music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,user.music.163.cn,🎵 NeteaseMusic
+
+# 网易云音乐评论系统
+DOMAIN-SUFFIX,comment.music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,comment.music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,comment.music.126.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,comment.music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,comment.music.163.cn,🎵 NeteaseMusic
+
+# 网易云音乐歌单
+DOMAIN-SUFFIX,playlist.music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,playlist.music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,playlist.music.126.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,playlist.music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,playlist.music.163.cn,🎵 NeteaseMusic
+
+# 网易云音乐电台
+DOMAIN-SUFFIX,dj.music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,dj.music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,dj.music.126.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,dj.music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,dj.music.163.cn,🎵 NeteaseMusic
+
+# 网易云音乐直播
+DOMAIN-SUFFIX,live.music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,live.music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,live.music.126.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,live.music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,live.music.163.cn,🎵 NeteaseMusic
+
+# 网易云音乐支付
+DOMAIN-SUFFIX,pay.music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,pay.music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,pay.music.126.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,pay.music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,pay.music.163.cn,🎵 NeteaseMusic
+
+# 网易云音乐统计和日志
+DOMAIN-SUFFIX,log.music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,log.music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,log.music.126.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,log.music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,log.music.163.cn,🎵 NeteaseMusic
+
+# 网易云音乐其他服务
+DOMAIN-SUFFIX,mail.music.163.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,mail.music.126.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,mail.music.126.com,🎵 NeteaseMusic
+DOMAIN-SUFFIX,mail.music.163.net,🎵 NeteaseMusic
+DOMAIN-SUFFIX,mail.music.163.cn,🎵 NeteaseMusic
