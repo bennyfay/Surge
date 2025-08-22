@@ -1,12 +1,33 @@
-```
-[Rule]
-RULE-SET,SYSTEM,DIRECT
-RULE-SET,https://raw.githubusercontent.com/metowolf/Surge/master/RULE-SET/torrent.list,🦉 Torrent
-RULE-SET,https://raw.githubusercontent.com/metowolf/Surge/master/RULE-SET/copyright.list,🍌️ Copyright
-RULE-SET,https://raw.githubusercontent.com/metowolf/Surge/master/RULE-SET/apple.list,🍎 Only
-RULE-SET,https://raw.githubusercontent.com/metowolf/Surge/master/RULE-SET/block.list,🍃 Proxy
-RULE-SET,https://raw.githubusercontent.com/metowolf/Surge/master/RULE-SET/china.list,🍂 Domestic
-RULE-SET,LAN,DIRECT
-GEOIP,CN,🍂 Domestic
-FINAL,☁️ Others,dns-failed
-```
+# Surge 规则集
+
+## 回国场景优化版本
+
+### 新增分流规则
+
+#### 抖音分流 (douyin.list)
+- 包含抖音相关的所有域名和服务
+- 涵盖主域名、API、CDN、媒体、广告、支付、直播等
+- 代理组：📱 Douyin
+
+#### 网易云音乐分流 (netease-music.list)
+- 包含网易云音乐相关的所有域名和服务
+- 涵盖主域名、API、播放器、搜索、用户系统、评论、歌单、电台、直播、支付等
+- 代理组：🎵 NeteaseMusic
+
+### 使用说明
+
+1. 在Surge中导入配置文件
+2. 根据需要调整代理组的优先级
+3. 抖音和网易云音乐默认使用直连，需要时可通过代理组切换
+
+### 代理组配置
+
+- 📱 Douyin: 抖音专用代理组
+- 🎵 NeteaseMusic: 网易云音乐专用代理组
+
+### 优化特性
+
+- 回国场景DNS优化
+- 国内应用优先直连
+- 智能分流策略
+- 支持IPv6

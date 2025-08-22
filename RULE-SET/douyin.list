@@ -1,0 +1,66 @@
+# 抖音分流规则 - 回国场景优化
+# 抖音主域名
+DOMAIN-SUFFIX,douyin.com,📱 Douyin
+DOMAIN-SUFFIX,bytedance.com,📱 Douyin
+DOMAIN-SUFFIX,bytedance.net,📱 Douyin
+DOMAIN-SUFFIX,bytedns.net,📱 Douyin
+DOMAIN-SUFFIX,bytedns.com,📱 Douyin
+
+# 抖音API和CDN
+DOMAIN-SUFFIX,amemv.com,📱 Douyin
+DOMAIN-SUFFIX,aweme.snssdk.com,📱 Douyin
+DOMAIN-SUFFIX,aweme.snssdk.com,📱 Douyin
+DOMAIN-SUFFIX,api.amemv.com,📱 Douyin
+DOMAIN-SUFFIX,api.douyin.com,📱 Douyin
+DOMAIN-SUFFIX,api.toutiao.com,📱 Douyin
+DOMAIN-SUFFIX,api.snssdk.com,📱 Douyin
+
+# 抖音视频和媒体
+DOMAIN-SUFFIX,pstatp.com,📱 Douyin
+DOMAIN-SUFFIX,sf1-ttcdn-tos.pstatp.com,📱 Douyin
+DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com,📱 Douyin
+DOMAIN-SUFFIX,sf6-ttcdn-tos.pstatp.com,📱 Douyin
+DOMAIN-SUFFIX,sf1-ttcdn-tos.pstatp.com,📱 Douyin
+DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com,📱 Douyin
+DOMAIN-SUFFIX,sf6-ttcdn-tos.pstatp.com,📱 Douyin
+
+# 抖音广告和统计
+DOMAIN-SUFFIX,log.snssdk.com,📱 Douyin
+DOMAIN-SUFFIX,log.toutiao.com,📱 Douyin
+DOMAIN-SUFFIX,log.amemv.com,📱 Douyin
+DOMAIN-SUFFIX,log.douyin.com,📱 Douyin
+DOMAIN-SUFFIX,mon.toutiao.com,📱 Douyin
+DOMAIN-SUFFIX,mon.snssdk.com,📱 Douyin
+
+# 抖音支付和电商
+DOMAIN-SUFFIX,pay.toutiao.com,📱 Douyin
+DOMAIN-SUFFIX,pay.snssdk.com,📱 Douyin
+DOMAIN-SUFFIX,pay.amemv.com,📱 Douyin
+DOMAIN-SUFFIX,pay.douyin.com,📱 Douyin
+
+# 抖音直播
+DOMAIN-SUFFIX,live.douyin.com,📱 Douyin
+DOMAIN-SUFFIX,live.amemv.com,📱 Douyin
+DOMAIN-SUFFIX,live.snssdk.com,📱 Douyin
+
+# 抖音搜索
+DOMAIN-SUFFIX,search.douyin.com,📱 Douyin
+DOMAIN-SUFFIX,search.amemv.com,📱 Douyin
+DOMAIN-SUFFIX,search.snssdk.com,📱 Douyin
+
+# 抖音用户系统
+DOMAIN-SUFFIX,passport.snssdk.com,📱 Douyin
+DOMAIN-SUFFIX,passport.amemv.com,📱 Douyin
+DOMAIN-SUFFIX,passport.douyin.com,📱 Douyin
+DOMAIN-SUFFIX,passport.toutiao.com,📱 Douyin
+
+# 抖音消息和通知
+DOMAIN-SUFFIX,msg.douyin.com,📱 Douyin
+DOMAIN-SUFFIX,msg.amemv.com,📱 Douyin
+DOMAIN-SUFFIX,msg.snssdk.com,📱 Douyin
+
+# 抖音其他服务
+DOMAIN-SUFFIX,webcast.amemv.com,📱 Douyin
+DOMAIN-SUFFIX,webcast.douyin.com,📱 Douyin
+DOMAIN-SUFFIX,webcast.snssdk.com,📱 Douyin
+DOMAIN-SUFFIX,webcast.toutiao.com,📱 Douyin
